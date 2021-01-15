@@ -1,6 +1,6 @@
 # Data-Analysis
 
-+ The analysis consists in identifying the signals measured the presence of a wave called P300
++ The analysis consists in identifying in the measured signals the presence of a wave called P300
 + Studying the automation of this classification and implementing several pattern recognition techniques to evaluate them.
 
 ## The dataset
